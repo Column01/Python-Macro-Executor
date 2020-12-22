@@ -1,0 +1,8 @@
+
+executor/
+.vscode
+__pycache__
+build
+*.exe
+*.code-workspace
+*.spec
